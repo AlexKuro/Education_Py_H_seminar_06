@@ -21,4 +21,5 @@ for i in range(n, 0, -1):
     an = a+(i-1)*d
     array.append(an)
 
-print(f"Заполненый список ->> {sorted(array)}\n")
+print(f"Заполненый список ---->> {sorted(array)}\n")
+
